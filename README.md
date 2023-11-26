@@ -1,6 +1,6 @@
 # TwitterPoliticalAmplification
 
-This repository contains the Twitter profiles and Left-Right scores that we used in the paper 'Did the Right go down with the rest of Twitter?: A Global Audit on Twitter's Political Amplification in the Musk Era'. This is an anonumous repository created for the purpose of double blind submission. This data will be shifted to our main github account, after the paper submission process is over.
+This repository contains the Twitter profiles and Left-Right scores that we used in the paper **'Did the Right go down with the rest of Twitter?: A Global Audit on Twitter's Political Amplification in the Musk Era'**. This is an anonumous repository created for the purpose of double blind submission. This data will be shifted to our main github account, after the paper submission process is over.
 
 ## Data folders
 
